@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Hello Repository";
+	std::cout << "Say Gex";
 }
 
